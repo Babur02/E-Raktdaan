@@ -1,4 +1,4 @@
-# BloodBankApp
+# E-RaktdaanApp
 
 ## Description
 E-Raktdaan Application in android, in this project I have tried to show most commonly used application development patterns and best practices.
@@ -10,8 +10,7 @@ There we have our MySQL database and some PHP scripts that are our APIs.
 For android the languages we are using are Java and XML.
 
 ## Tool
-#### Android Studio
-#### NotePad++
+#### Android Studio  
 
 ## Libraries Used
 #### Volley: https://gist.github.com/RISHABH3821/bc48fe91119c2efa14cfab1accc71376
