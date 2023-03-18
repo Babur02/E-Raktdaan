@@ -20,17 +20,17 @@ For android the languages we are using are Java and XML.
 ## ScreenShots
 Login Page                 |  Registration Page
 :-------------------------:|:-------------------------:
-![](https://raw.github.com/RISHABH3821/BloodBankApp/master/ScreenShots/Screenshot_2019-12-27-15-54-52-83_f40dc4c0b5047a0ee13f6c2a4e6ab6a3.png)  |  ![](https://raw.github.com/RISHABH3821/BloodBankApp/master/ScreenShots/Screenshot_2019-12-27-15-54-52-83_f40dc4c0b5047a0ee13f6c2a4e6ab6a3.png)
+![](https://github.com/Babur02/E-Raktdaan/blob/723edc32e3ddbcfa81f85a17d4b669d81b2b9d1b/E-Raktdaan/screenshots/login.jpg)  |  ![](https://github.com/Babur02/E-Raktdaan/blob/723edc32e3ddbcfa81f85a17d4b669d81b2b9d1b/E-Raktdaan/screenshots/signup.jpg)
 
 
 Home Page                  |  Make request Page
 :-------------------------:|:-------------------------:
-![](https://raw.github.com/RISHABH3821/BloodBankApp/master/ScreenShots/Screenshot_2019-12-27-15-55-20-43_f40dc4c0b5047a0ee13f6c2a4e6ab6a3.png)  |  ![](https://raw.github.com/RISHABH3821/BloodBankApp/master/ScreenShots/Screenshot_2019-12-27-15-55-28-10_f40dc4c0b5047a0ee13f6c2a4e6ab6a3.png)
+![](https://github.com/Babur02/E-Raktdaan/blob/723edc32e3ddbcfa81f85a17d4b669d81b2b9d1b/E-Raktdaan/screenshots/Home.jpg)  |  ![](https://github.com/Babur02/E-Raktdaan/blob/7947863f2d9460e413edf467627b2272d5875e01/E-Raktdaan/screenshots/req.jpg)
 
 
 Search Page                |  Search Results Page
 :-------------------------:|:-------------------------:
-![](https://raw.github.com/RISHABH3821/BloodBankApp/master/ScreenShots/Screenshot_2019-12-27-15-55-36-34_f40dc4c0b5047a0ee13f6c2a4e6ab6a3.png)  |  ![](https://raw.github.com/RISHABH3821/BloodBankApp/master/ScreenShots/Screenshot_2019-12-27-15-55-49-49_f40dc4c0b5047a0ee13f6c2a4e6ab6a3.png)
+![](https://github.com/Babur02/E-Raktdaan/blob/723edc32e3ddbcfa81f85a17d4b669d81b2b9d1b/E-Raktdaan/screenshots/Search.jpg)  |  ![](https://github.com/Babur02/E-Raktdaan/blob/723edc32e3ddbcfa81f85a17d4b669d81b2b9d1b/E-Raktdaan/screenshots/SearchResult.jpg)
 
 
 
