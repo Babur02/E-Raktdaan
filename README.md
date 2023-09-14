@@ -12,11 +12,6 @@ For android the languages we are using are Java and XML.
 ## Tool
 #### Android Studio  
 
-## Libraries Used
-#### Volley: https://gist.github.com/RISHABH3821/bc48fe91119c2efa14cfab1accc71376
-#### Glide(For loading images): https://github.com/bumptech/glide
-#### Fast Android Networking (For better Image Upload): https://github.com/amitshekhariitbhu/Fast-Android-Networking
-
 ## ScreenShots
 Login Page                 |  Registration Page
 :-------------------------:|:-------------------------:
